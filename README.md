@@ -42,8 +42,8 @@ Aplikasi ini dibuat untuk membantu instansi atau organisasi dalam:
 ##  Cara Menjalankan
 1. Clone repo:
    ```bash
-   git clone https://github.com/rtpnlmazer/aplikasi_arsip.git
-   cd aplikasi_arsip
+   git clone https://github.com/Sheva1012/aplikasi_arsip_surat.git
+   cd arsip_surat
 
 2. Install dependency:
    ```bash
